@@ -13,6 +13,9 @@ $ terraform show
 // リソースの終了
 $ terraform destroy
 
+// 出力データの照合
+$ terraform output
+
 // 状態の一覧
 $ terraform state list
 
