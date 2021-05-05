@@ -1,3 +1,6 @@
+# Terraformのチュートリアル
+
+https://learn.hashicorp.com/collections/terraform/aws-get-started
 
 # コマンド集
 ```
