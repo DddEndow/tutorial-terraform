@@ -10,6 +10,9 @@ $ terraform apply
 // 状態の確認
 $ terraform show
 
+// リソースの終了
+$ terraform destroy
+
 // 状態の一覧
 $ terraform state list
 
